@@ -32,17 +32,17 @@ const langArr = {
         "en": "Take a Look"
     },
     "name-1": {
-        "ru": "Ризаев Амирхан",
-        "en": "Rizaev Amirkhan"
+        "ru": "The Rizaev <small>(АМИРХАН РИЗАЕВ)</small>",
+        "en": "The Rizaev <small>(AMIRKHAN RIZAEV)</small>"
     },
-    "name-2": {
-        "ru": "Дубровская Амалия",
-        "en": "Dubrovskaya Amaliya"
-    },
-    "name-3": {
-        "ru": "Миргазиев Эмиль",
-        "en": "Mirgaziev Emil"
-    },
+    // "name-2": {
+    //     "ru": "Дубровская Амалия",
+    //     "en": "Dubrovskaya Amaliya"
+    // },
+    // "name-3": {
+    //     "ru": "Миргазиев Эмиль",
+    //     "en": "Mirgaziev Emil"
+    // },
     "about-1": {
         "ru": "Основатель MoonIFY. Junior Full-Stack &AMP; Python-разработчик",
         "en": "Founder of the MoonIFY. Head programmer. Junior Full-Stack &AMP; Python Developer"
@@ -56,8 +56,8 @@ const langArr = {
         "en": "Co-founder. Python Developer. Experience in DS/ML-engineering."
     },
     "ourworks": {
-        "ru": "Наши работы",
-        "en": "Our works"
+        "ru": "НАШИ РАБОТЫ",
+        "en": "OUT WORKS"
     },
     "tbd": {
         "ru": "Пока отсутсвует :)",
@@ -82,5 +82,13 @@ const langArr = {
     "sarasoon": {
         "ru": "SARA скоро...",
         "en": "SARA soon..."
-    }
+    },
+    "saraabout": {
+        "ru": "Все подробости смотрите на <a class='logo-b' target='_blank' href='https://therizaev.github.io/sara/'>сайте</a>",
+        "en": "See all the details on the <a class='logo-b' target='_blank' href='https://therizaev.github.io/sara/'>website</a>"
+    },
+    "about-works-2": {
+        "ru": "ГОЛОСОВОЙ ПОМОЩНИК с искусственным интеллектом. Разработанный для умного общения с пользователем на ПК",
+        "en": "AI VOICE ASSISTANT. Designed for smart communication with the user on PC"
+    },
 }
