@@ -57,7 +57,7 @@ const langArr = {
     },
     "ourworks": {
         "ru": "НАШИ РАБОТЫ",
-        "en": "OUT WORKS"
+        "en": "OUR WORKS"
     },
     "tbd": {
         "ru": "Пока отсутсвует :)",
